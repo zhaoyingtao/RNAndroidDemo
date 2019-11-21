@@ -1,4 +1,4 @@
-package com.snow.rnd;
+package com.snow.rnd.act;
 
 import com.facebook.react.ReactActivity;
 

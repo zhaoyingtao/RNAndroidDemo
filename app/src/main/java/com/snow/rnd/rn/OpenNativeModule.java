@@ -1,4 +1,4 @@
-package com.snow.rnd;
+package com.snow.rnd.rn;
 
 import android.content.Intent;
 
@@ -14,12 +14,14 @@ import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.modules.core.DeviceEventManagerModule;
 import com.facebook.react.uimanager.IllegalViewOperationException;
+import com.snow.rnd.act.MineActivity;
+import com.snow.rnd.MyApplication;
 
 /**
  * author : zyt
  * e-mail : 632105276@qq.com
  * date   : 2019-08-15
- * desc   :
+ * desc   :rn和原生相互传值
  */
 public class OpenNativeModule extends ReactContextBaseJavaModule {
     private ReactContext mReactContext;

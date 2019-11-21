@@ -1,9 +1,11 @@
-package com.snow.rnd;
+package com.snow.rnd.act;
 
 import android.os.Bundle;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.snow.rnd.R;
 
 /**
  * author : zyt

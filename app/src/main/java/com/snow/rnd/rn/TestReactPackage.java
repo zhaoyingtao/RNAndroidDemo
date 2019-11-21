@@ -1,4 +1,4 @@
-package com.snow.rnd;
+package com.snow.rnd.rn;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

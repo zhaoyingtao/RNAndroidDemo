@@ -1,10 +1,12 @@
-package com.snow.rnd;
+package com.snow.rnd.act;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.snow.rnd.R;
 
 public class MainActivity extends AppCompatActivity {
 

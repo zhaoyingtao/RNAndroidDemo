@@ -1,7 +1,6 @@
 package com.snow.rnd;
 
 import android.app.Application;
-import android.content.Context;
 import android.os.Environment;
 
 import com.facebook.react.ReactApplication;
@@ -10,6 +9,7 @@ import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
 import com.horcrux.svg.SvgPackage;
+import com.snow.rnd.rn.TestReactPackage;
 
 import java.util.Arrays;
 import java.util.List;

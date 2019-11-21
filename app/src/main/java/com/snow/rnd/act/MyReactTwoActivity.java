@@ -1,4 +1,4 @@
-package com.snow.rnd;
+package com.snow.rnd.act;
 
 import android.app.Activity;
 import android.content.Intent;

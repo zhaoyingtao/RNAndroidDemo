@@ -1,4 +1,4 @@
-package com.snow.rnd;
+package com.snow.rnd.act;
 
 import android.os.Bundle;
 import android.os.CountDownTimer;
@@ -8,6 +8,7 @@ import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.modules.core.DeviceEventManagerModule;
+import com.snow.rnd.MyApplication;
 
 import javax.annotation.Nullable;
 

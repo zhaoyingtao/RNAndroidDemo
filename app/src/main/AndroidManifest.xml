@@ -16,7 +16,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".MainActivity">
+        <activity android:name=".act.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
@@ -26,22 +26,22 @@
         </activity>
         <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
         <activity
-            android:name=".MyDebugReactActivity"
+            android:name=".act.MyDebugReactActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".MyReactActivity"
+            android:name=".act.MyReactActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".MyReactTwoActivity"
+            android:name=".act.MyReactTwoActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".MyReactThreeActivity"
+            android:name=".act.MyReactThreeActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".MineActivity"
+            android:name=".act.MineActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".RnAndAndroidActivity"
+            android:name=".act.RnAndAndroidActivity"
             android:screenOrientation="portrait" />
 
     </application>
