@@ -1,0 +1,27 @@
+{
+  "name": "rnandroiddemo",
+  "version": "1.0.0",
+  "description": "first rntestapp",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "no",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "zyt",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.59.10",
+    "react-native-gesture-handler": "^1.3.0",
+    "react-native-shadow": "^1.2.2",
+    "react-native-svg": "^9.6.2",
+    "react-navigation": "^3.11.1"
+  }
+}
